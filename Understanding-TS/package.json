@@ -1,0 +1,18 @@
+{
+  "name": "understanding-ts",
+  "version": "1.0.0",
+  "description": "Understanding TypeScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/arpangreat/TypeScriptExs.git"
+  },
+  "author": "Swastik Acharyya",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
